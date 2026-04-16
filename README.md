@@ -12,10 +12,6 @@
 - 📱 **Development**: Android Nactive & Cross-platform Mobile Applications & Spring
 - 📚 **Learning**: AI  & System Architecture
 
-### 🛠️ Technology Arsenal
-
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=future-gole&layout=compact&langs_count=8&theme=tokyonight"/>
-
 #### ☕ <b>Backend & Core
 
 🔹 **Java**
